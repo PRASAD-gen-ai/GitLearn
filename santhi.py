@@ -1,1 +1,1 @@
-print('Bujji is santhi')
+print('Hello python')
